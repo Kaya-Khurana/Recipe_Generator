@@ -16,8 +16,7 @@ Features
 
 # Installation
 To run the Recipe Generator locally, follow these steps:
-
-Clone the Repository:git clone https://github.com/your-username/recipe-generator.git
+Clone the Repository:git clone https://github.com/kaya-khurana/recipe-generator.git
 
 
 # Navigate to the Project Directory:cd recipe-generator
@@ -47,28 +46,16 @@ If no recipes match your preferences, an error message will appear.
 # Data Module (data.js): Stores and provides access to the recipe dataset.
 # User Input Module (userInput.js): Captures user preferences from the form.
 # Recipe Generation Module (recipeGenerator.js): Filters recipes and selects a random one.
-Display Module (display.js): Updates the DOM with recipe details or error messages.
-Styling Module (styles.css): Defines the visual design and responsiveness.
+# Display Module (display.js): Updates the DOM with recipe details or error messages.
+# Styling Module (styles.css): Defines the visual design and responsiveness.
 
-Contributing
+# Contributing
 Contributions are welcome! To contribute:
 
-Fork the repository.
+# Fork the repository.
 Create a new branch:git checkout -b feature/your-feature
-
-
 Make your changes and commit them:git commit -m "Add your feature"
-
-
 Push to the branch:git push origin feature/your-feature
-
-
 Open a pull request with a description of your changes.
-
 Please ensure your code follows the project's coding style and includes appropriate comments.
-License
-This project is licensed under the MIT License.
-Contact
-For questions or feedback, please reach out via GitHub Issues or email at your-email@example.com.
-
 Happy cooking with the Recipe Generator! 🍳
