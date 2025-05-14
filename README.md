@@ -33,12 +33,12 @@ live-server
 # Note: ES6 modules require a server (local or hosted) to work due to CORS restrictions. Using live-server or a similar tool is recommended.
 Usage
 
-Open the application in a web browser.
-Select a cuisine from the dropdown menu (e.g., Italian, Mexican, Indian, or All Cuisines).
-Check any dietary preferences (Vegetarian, Vegan, Gluten-Free) as needed.
-Click the Generate Recipe button to display a random recipe matching your criteria.
-View the recipe details, including title, preparation time, ingredients, and instructions.
-If no recipes match your preferences, an error message will appear.
+1.Open the application in a web browser.
+2.Select a cuisine from the dropdown menu (e.g., Italian, Mexican, Indian, or All Cuisines).
+3.Check any dietary preferences (Vegetarian, Vegan, Gluten-Free) as needed.
+4.Click the Generate Recipe button to display a random recipe matching your criteria.
+5.View the recipe details, including title, preparation time, ingredients, and instructions.
+6.If no recipes match your preferences, an error message will appear.
 
 # Module Details
 
