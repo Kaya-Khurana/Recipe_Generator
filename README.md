@@ -26,12 +26,11 @@ Clone the Repository:git clone https://github.com/kaya-khurana/recipe-generator.
 Option 1: Open index.html directly in a web browser (e.g., Chrome, Firefox).
 Option 2: Serve the project using a local server for proper ES6 module support:npm install -g live-server
 live-server
-
-This will launch the application in your default browser.
-
+# This will launch the application in your default browser.
 
 
-Note: ES6 modules require a server (local or hosted) to work due to CORS restrictions. Using live-server or a similar tool is recommended.
+
+# Note: ES6 modules require a server (local or hosted) to work due to CORS restrictions. Using live-server or a similar tool is recommended.
 Usage
 
 Open the application in a web browser.
