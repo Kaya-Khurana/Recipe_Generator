@@ -58,3 +58,6 @@ Push to the branch:git push origin feature/your-feature
 Open a pull request with a description of your changes.
 Please ensure your code follows the project's coding style and includes appropriate comments.
 Happy cooking with the Recipe Generator! 🍳
+# some glimpse of Recipe Generator
+![image](https://github.com/user-attachments/assets/9292ba32-192e-4063-94f1-a437a950916c)
+
