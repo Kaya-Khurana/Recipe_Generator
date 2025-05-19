@@ -34,7 +34,7 @@ live-server
 Usage
 
 1.Open the application in a web browser.
-2.Select a cuisine from the dropdown menu (e.g., Italian, Mexican, Indian, or All Cuisines).
+2.Select a cuisine from the dropdown menu (Indian)
 3.Check any dietary preferences (Vegetarian, Vegan, Gluten-Free) as needed.
 4.Click the Generate Recipe button to display a random recipe matching your criteria.
 5.View the recipe details, including title, preparation time, ingredients, and instructions.
