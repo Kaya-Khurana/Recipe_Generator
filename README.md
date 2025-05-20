@@ -17,11 +17,7 @@ Features
 # Installation
 To run the Recipe Generator locally, follow these steps:
 Clone the Repository:git clone https://github.com/kaya-khurana/recipe-generator.git
-
-
-# Navigate to the Project Directory:cd recipe-generator
-
-
+Navigate to the Project Directory:cd recipe-generator
 # Open the Application:
 Option 1: Open index.html directly in a web browser (e.g., Chrome, Firefox).
 Option 2: Serve the project using a local server for proper ES6 module support:npm install -g live-server
