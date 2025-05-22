@@ -1,5 +1,5 @@
 # Recipe Generator
-The Recipe Generator is a web application that helps users discover random recipes based on their preferred cuisine and dietary restrictions. Built with HTML, CSS, and JavaScript, it features a modular architecture for easy maintenance and scalability. Users can select a cuisine (e.g., Italian, Mexican, Indian) and dietary preferences (e.g., vegetarian) to generate a recipe with details like title, preparation time, ingredients, and instructions.
+The Recipe Generator is a web application that helps users discover random recipes based on their preferred cuisine and dietary restrictions. Built with HTML, CSS, and JavaScript,Nodejs,React js, it features a modular architecture for easy maintenance and scalability. Users can select a cuisine (e.g., Italian, Mexican, Indian) and dietary preferences (e.g., vegetarian) to generate a recipe with details like title, preparation time, ingredients, and instructions.
 Features
 
 # Customizable Preferences: Choose cuisine and dietary restrictions (vegetarian)
