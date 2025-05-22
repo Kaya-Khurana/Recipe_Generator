@@ -6,7 +6,6 @@ Features
 # Random Recipe Generation: Generates a random recipe from a predefined dataset based on user input.
 # Responsive Design: Clean, mobile-friendly interface with a modern look.
 # Error Handling: Displays a message if no recipes match the user's criteria.
-# Modular Architecture: Organized into five modules for better code maintainability.
 
 # Technologies Used
 
