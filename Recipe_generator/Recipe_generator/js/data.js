@@ -32,6 +32,7 @@ export const recipes = [
       "garam masala",
       "cumin",
       "turmeric",
+      "Mustard oil"
     ],
     steps: [
       "Cook soaked chickpeas.",
