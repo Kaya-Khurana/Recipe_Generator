@@ -57,6 +57,6 @@ Happy cooking with the Recipe Generator! 🍳
 
 ![image](https://github.com/user-attachments/assets/458cc70e-fc32-4732-9f92-f4b5af777d12)
 
-![image](https://github.com/user-attachments/assets/255b2214-071f-4215-bc20-e1ed678d1525)
+
 
 
