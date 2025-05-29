@@ -23,17 +23,14 @@ Option 2: Serve the project using a local server for proper ES6 module support:n
 live-server
 # This will launch the application in your default browser.
 
-
-
 # Note: ES6 modules require a server (local or hosted) to work due to CORS restrictions. Using live-server or a similar tool is recommended.
 Usage
 
 1.Open the application in a web browser.
 2.Select a cuisine from the dropdown menu (Indian)
-3.Check any dietary preferences (Vegetarian) as needed.
-4.Click the Generate Recipe button to display a random recipe matching your criteria.
-5.View the recipe details, including title, preparation time, ingredients, and instructions.
-6.If no recipes match your preferences, an error message will appear.
+3.Click the Generate Recipe button to display a random recipe matching your criteria.
+4.View the recipe details, including title, preparation time, ingredients, and instructions.
+5.If no recipes match your preferences, an error message will appear.
 
 # Module Details
 
